@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/wuyiqiang0621/butterfly-ai-update/releases/latest/download/update.zip",
-  "files": {
-    "update.zip": "165BD140D47863CF77A24F12E61B69B7F3A577B09B56C193268D12FE7C1CC9B3"
-  },
-  "force": false,
-  "changelog": "蝴蝶AI 1.1.0\n- 修复已知问题，提升稳定性\n- 优化混剪、发布与采集流程"
+    "version": "1.0.1",
+    "url": "https://github.com/wuyiqiang0621/butterfly-ai-update/releases/latest/download/update.zip",
+    "files": {
+        "update.zip": "07ca72673c745366a2b925a3351d21d3ccd03e09758a1e476dc3e3beed182e5b"
+    },
+    "force": false,
+    "changelog": "新增「趋势洞察」看板：展示抖音热搜行业热度与新品/追品候选；新增「抓取最新趋势」一键抓取热搜并自动重算分析；新增试新策略：按平台上升趋势自动生成试新品计划，与正式方案合并展示；采集更稳定：账号数据导出优先、接口兜底双通道；修复：删除账号后残留数据自动清理"
 }
