@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "url": "https://github.com/wuyiqiang0621/butterfly-ai-update/releases/latest/download/update.zip",
+    "url": "https://butterfly-ai-update-1498091373.cos.ap-guangzhou.myqcloud.com/update.zip;https://github.com/wuyiqiang0621/butterfly-ai-update/releases/latest/download/update.zip",
     "files": {
         "update.zip": "07ca72673c745366a2b925a3351d21d3ccd03e09758a1e476dc3e3beed182e5b"
     },
